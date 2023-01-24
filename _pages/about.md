@@ -8,12 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm), [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). I am interested in computer vision for robotics. Currently, I am a research intern at Hyperplane Lab, [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/english/), advised by [Prof.Hao Dong](https://zsdonghao.github.io).
+I am a junior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm), [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). I am interested in computer vision for robotics. Currently, I am a research intern at Hyperplane Lab, [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/english/), advised by [Prof. Hao Dong](https://zsdonghao.github.io).
 
 
 Research
 ======
+- Hyperplane Lab, Center on Frontiers of Computing Studies, Peking University	  2021.1 - Present
 - Learning Dense Visual Actionable Affordance for Deformable Object Manipulation
+- Supervisor: Prof. Hao Dong, Dr. Ruihai Wu
+- Paper under review of CVPR 2023
+  Learning dense visual representation for deformable object manipulation, which reveals the dynamic and kinematic property of deformable objects. We also propose a novel training pipeline to take the future states after manipulation into consideration. By training in a reversed step-by-step manner, we enable the representation to be aware of ‘potential’, thus finding the global optimal action for deformable object manipulation tasks.
+
 
 Awards and Honors
 ======
