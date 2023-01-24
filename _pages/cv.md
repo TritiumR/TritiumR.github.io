@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Turing class, School of Computer Science, Peking University, 2024 (expected)
+  GPA: 2022-present: 3.81 
+      2021-2022: 3.79
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-present: Research Assistant
+  * Hyperplane Lab, Center on Frontiers of Computing Studies, Peking University
+  * Project: Deformable Object Manipulation
+  * Abstract: Learning dense visual representation for deformable object manipulation, which reveals the dynamic and kinematic property of deformable objects. We also propose a novel training pipeline to take the future states after manipulation into consideration. By training in a reversed step-by-step manner, we enable the representation to be aware of ‘potential’, thus finding the global optimal action.
+  * Supervisor: Dr. Ruihai Wu, Prof. Hao Dong
 
 * Fall 2015: Research Assistant
   * Github University
