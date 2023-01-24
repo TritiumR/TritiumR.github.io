@@ -8,25 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm), [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). I am interested in computer vision for robotics. Currently, I am a research intern at [Hyperplane Lab], advised by [Prof.Hao Dong](https://zsdonghao.github.io).
+I am a junior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm), [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). I am interested in computer vision for robotics. Currently, I am a research intern at Hyperplane Lab, [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/english/), advised by [Prof.Hao Dong](https://zsdonghao.github.io).
 
 
 Research
 ======
+- Learning Dense Visual Actionable Affordance for Deformable Object Manipulation
 
-
-Getting started
+Awards and Honors
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-6. Check status by going to the repository settings, in the "GitHub pages" section
+- 2022: John Hopcroft Scholarship (3000RMB¥)
+- 2022: Peking University Dean's Scholarship (15000RMB¥)
+- 2020: Peking University Freshman Scholarship (25000RMB¥)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
 ------
