@@ -18,7 +18,7 @@ You can find my CV here: [Chuanruo Ning's CV](https://tritiumr.github.io/assets/
 
 Research Experience
 ======
-- **Learning Dense Visual Actionable Affordance for Deformable Object Manipulation**  2021.1 - Present 
+- **Learning Actionable Affordance for Deformable Object Manipulation**  2021.1 - Present 
   * Hyperplane Lab, Center on Frontiers of Computing Studies, Peking University 
   * Supervisor: Prof. Hao Dong, Ph.D. Ruihai Wu  
   * We propose to learn dense visual representation for deformable object manipulation
