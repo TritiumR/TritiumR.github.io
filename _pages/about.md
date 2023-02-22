@@ -31,7 +31,9 @@ By training in a reversed step-by-step manner, we enable the representation to b
 'potential', thus finding the global optimal action for deformable object manipulation tasks. 
   * Paper under review  
 
-<img src="https://tritiumr.github.io/assets/gif/deformable.gif" width="400" height="400">
+<div align="center">
+<img src="https://tritiumr.github.io/assets/gif/deformable.gif" width="400" height="400" title="Manipulation in simulator and real-world">
+</div>
 
 - **Confidence-aware Affordance Learning for Object Manipulation**  2022.12 - Present
   * Center on Frontiers of Computing Studies, Peking University 
@@ -40,8 +42,9 @@ By training in a reversed step-by-step manner, we enable the representation to b
 in learning affordance for manipulating diverse objects. We also enable the model to perform few-shot learning on 
 novel objects by sampling interactions in low-confidence area.
 
+<div align="center">
 <img src="https://tritiumr.github.io/assets/gif/w2a.gif" width = "600" height = "160">
-
+</div>
 
 Talks
 =====
