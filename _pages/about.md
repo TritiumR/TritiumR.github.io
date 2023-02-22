@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome To My Home Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Welcome To My Home Page
-
 
 I'm a junior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm), [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
 I'm interested in computer vision for robotics. Currently, I am a research intern at Hyperplane Lab, 
