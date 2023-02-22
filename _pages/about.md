@@ -16,8 +16,10 @@ I'm also collaborating with [Dr. Kaichun Mo](https://kaichun-mo.github.io) (NVID
 You can find my CV here: [Chuanruo Ning's CV](https://tritiumr.github.io/assets/CV.pdf)
 
 
-Research Experience
+Research
 ======
+![Deformable Object Manipulation](https://tritiumr.github.io/assets/gif/deformable.gif)
+
 - **Learning Actionable Affordance for Deformable Object Manipulation**  2021.1 - Present 
   * Hyperplane Lab, Center on Frontiers of Computing Studies, Peking University 
   * Supervisor: Ph.D. Candidate Ruihai Wu, Prof. Hao Dong
@@ -28,6 +30,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
 'potential', thus finding the global optimal action for deformable object manipulation tasks. 
   * Paper under review  
 
+![Confidence-aware Affordance](https://tritiumr.github.io/assets/gif/w2a.gif)
 
 - **Confidence-aware Affordance Learning for Object Manipulation**  2022.12 - Present
   * Center on Frontiers of Computing Studies, Peking University 
