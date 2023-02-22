@@ -18,11 +18,10 @@ You can find my CV here: [Chuanruo Ning's CV](https://tritiumr.github.io/assets/
 
 Research
 ======
-![Deformable Object Manipulation](https://tritiumr.github.io/assets/gif/deformable.gif)
 
-- **Learning Actionable Affordance for Deformable Object Manipulation**  2021.1 - Present 
+- **Learning Actionable Affordance for Deformable Object Manipulation**  2022.1 - Present 
   * Hyperplane Lab, Center on Frontiers of Computing Studies, Peking University 
-  * Supervisor: Ph.D. Candidate Ruihai Wu, Prof. Hao Dong
+  * Supervisor: [Ph.D. Candidate Ruihai Wu](https://warshallrho.github.io), [Prof. Hao Dong](https://zsdonghao.github.io)
   * We propose to learn dense visual representation for deformable object manipulation
 , which reveals the dynamic and kinematic property of deformable objects. 
 We also propose a novel training pipeline to take the future states after manipulation into consideration. 
@@ -30,15 +29,24 @@ By training in a reversed step-by-step manner, we enable the representation to b
 'potential', thus finding the global optimal action for deformable object manipulation tasks. 
   * Paper under review  
 
-![Confidence-aware Affordance](https://tritiumr.github.io/assets/gif/w2a.gif)
+<div align="left">
+
+<img src=https://tritiumr.github.io/assets/gif/deformable.gif width=20%/>
+
+</div>
 
 - **Confidence-aware Affordance Learning for Object Manipulation**  2022.12 - Present
   * Center on Frontiers of Computing Studies, Peking University 
-  * Supervisor: Dr. Kaichun Mo (NVIDIA), Prof. Hao Dong 
+  * Supervisor: [Dr. Kaichun Mo](https://kaichun-mo.github.io) (NVIDIA), [Prof. Hao Dong](https://zsdonghao.github.io) 
   * We propose 'Confidence' to measure uncertainty in affordance learning, aiming at Solving the data inefficiency 
 in learning affordance for manipulating diverse objects. We also enable the model to perform few-shot learning on 
 novel objects by sampling interactions in low-confidence area.
 
+<div align="left">
+
+<img src=https://tritiumr.github.io/assets/gif/w2a.gif width=50%/>
+
+</div>
 
 Awards and Honors
 ======
