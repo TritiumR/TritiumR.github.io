@@ -29,11 +29,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
 'potential', thus finding the global optimal action for deformable object manipulation tasks. 
   * Paper under review  
 
-<div align="left">
-
-<img src=https://tritiumr.github.io/assets/gif/deformable.gif width=20%/>
-
-</div>
+![img](https://tritiumr.github.io/assets/gif/deformable.gif)
 
 - **Confidence-aware Affordance Learning for Object Manipulation**  2022.12 - Present
   * Center on Frontiers of Computing Studies, Peking University 
@@ -42,11 +38,19 @@ By training in a reversed step-by-step manner, we enable the representation to b
 in learning affordance for manipulating diverse objects. We also enable the model to perform few-shot learning on 
 novel objects by sampling interactions in low-confidence area.
 
-<div align="left">
+![img](https://tritiumr.github.io/assets/gif/w2a.gif)
 
-<img src=https://tritiumr.github.io/assets/gif/w2a.gif width=50%/>
+Talks
+=====
+Title: Occlusion Reasoning for Manipulation \
+Date: 2022-8-4 \
+Location: Center on Frontiers of Computing Studies, Beijing, China \
+[Slides](https://tritiumr.github.io/assets/ppt/Occlusion_Reasoning.pdf)
 
-</div>
+Title: In-hand Reorientation \
+Date: 2022-2-20 \
+Location: Center on Frontiers of Computing Studies, Beijing, China \
+[Slides](https://tritiumr.github.io/assets/ppt/In-hand_Reorientation.pdf)
 
 Awards and Honors
 ======
