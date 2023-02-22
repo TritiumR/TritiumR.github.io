@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# About Me
+
 I'm a junior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm), [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
 I'm interested in computer vision for robotics. Currently, I am a research intern at Hyperplane Lab, 
 [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/english/), advised by [Prof. Hao Dong](https://zsdonghao.github.io).
@@ -41,7 +43,7 @@ in learning affordance for manipulating diverse objects. We also enable the mode
 novel objects by sampling interactions in low-confidence area.
 
 <div align="center">
-<img src="https://tritiumr.github.io/assets/gif/w2a.gif" width = "600" height = "160">
+<img src="https://tritiumr.github.io/assets/gif/w2a.gif" width = "600" height = "160" title="Few-shot on novel category">
 </div>
 
 Talks
