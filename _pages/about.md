@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Welcome To My Home Page
+
 
 I'm a junior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm), [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
 I'm interested in computer vision for robotics. Currently, I am a research intern at Hyperplane Lab, 
@@ -29,7 +31,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
 'potential', thus finding the global optimal action for deformable object manipulation tasks. 
   * Paper under review  
 
-<img src="https://tritiumr.github.io/assets/gif/deformable.gif" width="300" height="300">
+<img src="https://tritiumr.github.io/assets/gif/deformable.gif" width="400" height="400">
 
 - **Confidence-aware Affordance Learning for Object Manipulation**  2022.12 - Present
   * Center on Frontiers of Computing Studies, Peking University 
@@ -38,7 +40,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
 in learning affordance for manipulating diverse objects. We also enable the model to perform few-shot learning on 
 novel objects by sampling interactions in low-confidence area.
 
-<img src="https://tritiumr.github.io/assets/gif/w2a.gif" width="300" height="130">
+<img src="https://tritiumr.github.io/assets/gif/w2a.gif" width = "600" height = "160">
 
 
 Talks
