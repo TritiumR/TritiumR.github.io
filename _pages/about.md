@@ -32,7 +32,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
   * Paper under review  
 
 <div align="center">
-<img src="https://tritiumr.github.io/assets/gif/deformable.gif" width="400" height="400" title="Manipulation in simulator and real-world">
+<img src="https://tritiumr.github.io/assets/gif/deformable.gif" width="600" height="400" title="Manipulation in simulator and real-world">
 </div>
 
 - **Confidence-aware Affordance Learning for Object Manipulation**  2022.12 - Present
