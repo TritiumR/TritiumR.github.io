@@ -29,7 +29,7 @@ Research
 We also propose a novel training pipeline to take the future states after manipulation into consideration. 
 By training in a reversed step-by-step manner, we enable the representation to be aware of 
 'potential', thus finding the global optimal action for deformable object manipulation tasks. 
-  * [Paper](https://arxiv.org/abs/2303.11057) [Project](https://hyperplane-lab.github.io/DeformableAffordance/)
+  * [Paper](https://arxiv.org/abs/2303.11057) & [Project Page](https://hyperplane-lab.github.io/DeformableAffordance/)
 
 <div align="center">
 <img src="https://tritiumr.github.io/assets/gif/deformable.gif" width="600" height="300" title="Manipulation in simulator and real-world">
