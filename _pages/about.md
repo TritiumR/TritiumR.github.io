@@ -32,15 +32,14 @@ By training in a reversed step-by-step manner, we enable the representation to b
   * [Paper](https://arxiv.org/abs/2303.11057) & [Project Page](https://hyperplane-lab.github.io/DeformableAffordance/)
 
 <div align="center">
-<img src="https://tritiumr.github.io/assets/gif/deformable.gif" width="600" height="300" title="Manipulation in simulator and real-world">
+<img src="https://tritiumr.github.io/assets/video/cloth.mp4" width="600" height="300" title="Manipulation demonstration in the real world">
 </div>
 
-- **Confidence-aware Affordance Learning for Object Manipulation**  2022.12 - Present
+- **Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects**  2022.12 - Present
   * Center on Frontiers of Computing Studies, Peking University 
   * Supervisor: [Dr. Kaichun Mo](https://kaichun-mo.github.io) (NVIDIA), [Prof. Hao Dong](https://zsdonghao.github.io) 
-  * We propose 'Confidence' to measure uncertainty in affordance learning, aiming at Solving the data inefficiency 
-in learning affordance for manipulating diverse objects. We also enable the model to perform few-shot learning on 
-novel objects by sampling interactions in low-confidence area.
+  * Explore the cross-category few-shot learning task, where the model is required effectively explores novel categories with minimal interactions on a limited number of instances. Propose ‘Similarity’ to measure semantic similarity between local geometries across different categories. Enable the model to perform few-shot learning on novel categories by discovering uncertain yet important areas.
+  * Under review of Neurips 2023
 
 <div align="center">
 <img src="https://tritiumr.github.io/assets/gif/w2a.gif" width = "600" height = "160" title="Few-shot on novel category">
