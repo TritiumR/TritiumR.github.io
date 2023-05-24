@@ -13,7 +13,7 @@ redirect_from:
 I'm a junior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm), [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
 I'm interested in computer vision for robotics. Currently, I am a research intern at Hyperplane Lab, 
 [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/english/), advised by [Prof. Hao Dong](https://zsdonghao.github.io).
-I'm also collaborating with [Dr. Kaichun Mo](https://kaichun-mo.github.io) (NVIDIA) on robot manipulation.
+I'm also collaborating with [Dr. Kaichun Mo](https://kaichun-mo.github.io) (NVIDIA) on articulated object manipulation.
 
 You can find my CV here: [Chuanruo Ning's CV](https://tritiumr.github.io/assets/CV.pdf)
 
@@ -32,7 +32,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
   * [Paper](https://arxiv.org/abs/2303.11057) & [Project Page](https://hyperplane-lab.github.io/DeformableAffordance/)
 
 <div align="center">
-<img src="https://tritiumr.github.io/assets/video/cloth.mp4" width="600" height="300" title="Manipulation demonstration in the real world">
+<img src="https://tritiumr.github.io/assets/gif/cloth.gif" width="600" height="300" title="Manipulation demonstration in the real world">
 </div>
 
 - **Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects**  2022.12 - Present
