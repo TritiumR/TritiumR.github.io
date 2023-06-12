@@ -45,6 +45,15 @@ By training in a reversed step-by-step manner, we enable the representation to b
 <img src="https://tritiumr.github.io/assets/gif/w2a.gif" width = "600" height = "160" title="Few-shot on novel category">
 </div>
 
+- **Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusion**  2023.3 - Present 
+  * Hyperplane Lab, Center on Frontiers of Computing Studies, Peking University 
+  * Supervisor: [Ph.D. Candidate Ruihai Wu](https://warshallrho.github.io), [Prof. Hao Dong](https://zsdonghao.github.io)
+  * We propose an environment-aware affordance framework that incorporates both object-level actionable priors and environment constraints. A novel contrastive affordance learning framework is introduced, which is capable of training on scenes containing a single occluder and generalizing to scenes with complex occluder combinations.
+
+<div align="center">
+<img src="https://tritiumr.github.io/assets/picture/env.png" width = "600" height = "120" title="Environment-aware Affordance">
+</div>
+
 Talks
 =====
 Title: Occlusion Reasoning for Manipulation \
