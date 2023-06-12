@@ -32,7 +32,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
   * [Paper](https://arxiv.org/abs/2303.11057) / [Project Page](https://hyperplane-lab.github.io/DeformableAffordance/) / [Video](https://www.youtube.com/watch?v=DiZ9aXjK_PU) / [Video(real-world)](https://www.youtube.com/watch?v=aYneBzwhOGs)
 
 <div align="center">
-<img src="https://tritiumr.github.io/assets/gif/deformable.gif" width="600" height="300" title="Manipulation demonstration in the real world">
+<img src="https://tritiumr.github.io/assets/picture/deformable.png" width="600" height="150" title="Manipulation demonstration in the real world">
 </div>
 
 - **Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects**  2022.12 - Present
