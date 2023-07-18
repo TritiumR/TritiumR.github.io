@@ -30,6 +30,7 @@ We also propose a novel training pipeline to take the future states after manipu
 By training in a reversed step-by-step manner, we enable the representation to be aware of 
 'potential', thus finding the global optimal action for deformable object manipulation tasks. 
   * [Paper](https://arxiv.org/abs/2303.11057) / [Project Page](https://hyperplane-lab.github.io/DeformableAffordance/) / [Video](https://www.youtube.com/watch?v=DiZ9aXjK_PU) / [Video(real-world)](https://www.youtube.com/watch?v=aYneBzwhOGs)
+  * *Accepted by ICCV 2023*
 
 <div align="center">
 <img src="https://tritiumr.github.io/assets/picture/deformable.png" width="650" height="150" title="Manipulation demonstration in the real world">
