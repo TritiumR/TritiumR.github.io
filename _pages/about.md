@@ -23,7 +23,7 @@ You can find my CV here: [Chuanruo Ning's CV](https://tritiumr.github.io/assets/
 Research
 ======
 
-- **Learning Actionable Affordance for Deformable Object Manipulation**  2022.1 - Present 
+- **Learning Actionable Affordance for Deformable Object Manipulation**  2022.1 - 2023.3 
   * Hyperplane Lab, Center on Frontiers of Computing Studies, Peking University 
   * Supervisor: [Ph.D. Candidate Ruihai Wu](https://warshallrho.github.io), [Prof. Hao Dong](https://zsdonghao.github.io)
   * We propose to learn dense visual representation for deformable object manipulation
@@ -32,7 +32,7 @@ We also propose a novel training pipeline to take the future states after manipu
 By training in a reversed step-by-step manner, we enable the representation to be aware of 
 'potential', thus finding the global optimal action for deformable object manipulation tasks. 
   * [Paper](https://arxiv.org/abs/2303.11057) / [Project Page](https://hyperplane-lab.github.io/DeformableAffordance/) / [Video](https://www.youtube.com/watch?v=DiZ9aXjK_PU) / [Video(real-world)](https://www.youtube.com/watch?v=aYneBzwhOGs)
-  * *Accepted by ICCV 2023*
+  * **Accepted by ICCV 2023**
 
 <div align="center">
 <img src="https://tritiumr.github.io/assets/picture/deformable.png" width="650" height="150" title="Manipulation demonstration in the real world">
