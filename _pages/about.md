@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I'm a junior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm), [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
+I'm a senior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm), [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
 I'm interested in computer vision for robotics. 
 
 Currently, I am a research intern at [CCVL](https://ccvl.jhu.edu/team/), supervised by Bloomberg Distinguished Professor [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).  Before thant, I was an research intern at Hyperplane Lab, 
@@ -42,7 +42,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
   * Center on Frontiers of Computing Studies, Peking University 
   * Supervisor: [Dr. Kaichun Mo](https://kaichun-mo.github.io) (NVIDIA), [Prof. Hao Dong](https://zsdonghao.github.io) 
   * Explore the cross-category few-shot learning task, where the model is required effectively explores novel categories with minimal interactions on a limited number of instances. Propose ‘Similarity’ to measure semantic similarity between local geometries across different categories. Enable the model to perform few-shot learning on novel categories by discovering uncertain yet important areas.
-  * Under review of NeurIPS 2023
+  * Under review of NeurIPS 2023 (All positive scores)
 
 <div align="center">
 <img src="https://tritiumr.github.io/assets/gif/w2a.gif" width = "600" height = "160" title="Few-shot on novel category">
@@ -52,7 +52,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
   * Hyperplane Lab, Center on Frontiers of Computing Studies, Peking University 
   * Supervisor: [Ph.D. Candidate Ruihai Wu](https://warshallrho.github.io), [Prof. Hao Dong](https://zsdonghao.github.io)
   * We propose an environment-aware affordance framework that incorporates both object-level actionable priors and environment constraints. A novel contrastive affordance learning framework is introduced, which is capable of training on scenes containing a single occluder and generalizing to scenes with complex occluder combinations.
-  * Under review of NeurIPS 2023
+  * Under review of NeurIPS 2023 (All positive scores)
 
 <div align="center">
 <img src="https://tritiumr.github.io/assets/picture/env.png" width = "600" height = "120" title="Environment-aware Affordance">
