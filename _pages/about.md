@@ -50,7 +50,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
 </div>
 
 - **Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusion**
-  * Ruihai Wu*, Kai Cheng*, Yan Zhao, **Chuanruo Ning**, Ganqi Zhan, Hao Dong
+  * Ruihai Wu\*, Kai Cheng\*, Yan Zhao, **Chuanruo Ning**, Ganqi Zhan, Hao Dong
   * We propose an environment-aware affordance framework that incorporates both object-level actionable priors and environment 
   constraints. A novel contrastive affordance learning framework is introduced, which is capable of training on scenes containing 
   a single occluder and generalizing to scenes with complex occluder combinations.
