@@ -22,36 +22,33 @@ You can find my CV here: [Chuanruo Ning's CV](https://tritiumr.github.io/assets/
 Research
 ======
 
-- **Learning Actionable Affordance for Deformable Object Manipulation**  2022.1 - 2023.3 
-  * Hyperplane Lab, Center on Frontiers of Computing Studies, Peking University 
-  * Supervisor: [Ph.D. Candidate Ruihai Wu](https://warshallrho.github.io), [Prof. Hao Dong](https://zsdonghao.github.io)
+- **Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation**
+  * Ruihai Wu\*, **Chuanruo Ning**\*, Hao Dong   (\* denotes equal contribution)
   * We propose to learn dense visual representation for deformable object manipulation
 , which reveals the dynamic and kinematic property of deformable objects. 
 We also propose a novel training pipeline to take the future states after manipulation into consideration. 
 By training in a reversed step-by-step manner, we enable the representation to be aware of 
 'potential', thus finding the global optimal action for deformable object manipulation tasks. 
   * [Paper](https://arxiv.org/abs/2303.11057) / [Project Page](https://hyperplane-lab.github.io/DeformableAffordance/) / [Video](https://www.youtube.com/watch?v=DiZ9aXjK_PU) / [Video(real-world)](https://www.youtube.com/watch?v=aYneBzwhOGs)
-  * **Accepted by ICCV 2023**
+  * **ICCV 2023**
 
 <div align="center">
 <img src="https://tritiumr.github.io/assets/picture/deformable.png" width="650" height="150" title="Manipulation demonstration in the real world">
 </div>
 
-- **Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects**  2022.12 - Present
-  * Center on Frontiers of Computing Studies, Peking University 
-  * Supervisor: [Dr. Kaichun Mo](https://kaichun-mo.github.io) (NVIDIA), [Prof. Hao Dong](https://zsdonghao.github.io) 
+- **Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects**
+  * **Chuanruo Ning**, Ruihai Wu, Haoran Lu, Kaichun Mo, Hao Dong
   * Explore the cross-category few-shot learning task, where the model is required effectively explores novel categories with minimal interactions on a limited number of instances. Propose ‘Similarity’ to measure semantic similarity between local geometries across different categories. Enable the model to perform few-shot learning on novel categories by discovering uncertain yet important areas.
-  * **Accepted by NeurIPS 2023**
+  * **NeurIPS 2023**
 
 <div align="center">
 <img src="https://tritiumr.github.io/assets/gif/w2a.gif" width = "600" height = "160" title="Few-shot on novel category">
 </div>
 
-- **Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusion**  2023.3 - Present 
-  * Hyperplane Lab, Center on Frontiers of Computing Studies, Peking University 
-  * Supervisor: [Ph.D. Candidate Ruihai Wu](https://warshallrho.github.io), [Prof. Hao Dong](https://zsdonghao.github.io)
+- **Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusion**
+  * Ruihai Wu*, Kai Cheng*, Yan Zhao, **Chuanruo Ning**, Ganqi Zhan, Hao Dong
   * We propose an environment-aware affordance framework that incorporates both object-level actionable priors and environment constraints. A novel contrastive affordance learning framework is introduced, which is capable of training on scenes containing a single occluder and generalizing to scenes with complex occluder combinations.
-  * **Accepted by NeurIPS 2023**
+  * **NeurIPS 2023**
 
 <div align="center">
 <img src="https://tritiumr.github.io/assets/picture/env.png" width = "600" height = "120" title="Environment-aware Affordance">
