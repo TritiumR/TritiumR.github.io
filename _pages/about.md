@@ -38,16 +38,23 @@ By training in a reversed step-by-step manner, we enable the representation to b
 
 - **Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects**
   * **Chuanruo Ning**, Ruihai Wu, Haoran Lu, Kaichun Mo, Hao Dong
-  * Explore the cross-category few-shot learning task, where the model is required effectively explores novel categories with minimal interactions on a limited number of instances. Propose ‘Similarity’ to measure semantic similarity between local geometries across different categories. Enable the model to perform few-shot learning on novel categories by discovering uncertain yet important areas.
+  * Explore the cross-category few-shot learning task, where the model is required effectively explores novel categories 
+  with minimal interactions on a limited number of instances. Propose ‘Similarity’ to measure semantic similarity between 
+  local geometries across different categories. Enable the model to perform few-shot learning on novel categories by 
+  discovering uncertain yet important areas.
+  * [Paper](https://arxiv.org/abs/2309.07473)
   * **NeurIPS 2023**
 
 <div align="center">
-<img src="https://tritiumr.github.io/assets/gif/w2a.gif" width = "600" height = "160" title="Few-shot on novel category">
+<img src="https://tritiumr.github.io/assets/picture/w2e.png" width = "600" height = "160" title="Few-shot on novel category">
 </div>
 
 - **Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusion**
   * Ruihai Wu*, Kai Cheng*, Yan Zhao, **Chuanruo Ning**, Ganqi Zhan, Hao Dong
-  * We propose an environment-aware affordance framework that incorporates both object-level actionable priors and environment constraints. A novel contrastive affordance learning framework is introduced, which is capable of training on scenes containing a single occluder and generalizing to scenes with complex occluder combinations.
+  * We propose an environment-aware affordance framework that incorporates both object-level actionable priors and environment 
+  constraints. A novel contrastive affordance learning framework is introduced, which is capable of training on scenes containing 
+  a single occluder and generalizing to scenes with complex occluder combinations.
+  * [Paper](https://arxiv.org/abs/2309.07510)
   * **NeurIPS 2023**
 
 <div align="center">
