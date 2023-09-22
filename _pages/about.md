@@ -19,7 +19,6 @@ I'm also collaborating with [Dr. Kaichun Mo](https://kaichun-mo.github.io) (NVID
 
 You can find my CV here: [Chuanruo Ning's CV](https://tritiumr.github.io/assets/CV.pdf)
 
-
 Research
 ======
 
@@ -42,7 +41,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
   * Center on Frontiers of Computing Studies, Peking University 
   * Supervisor: [Dr. Kaichun Mo](https://kaichun-mo.github.io) (NVIDIA), [Prof. Hao Dong](https://zsdonghao.github.io) 
   * Explore the cross-category few-shot learning task, where the model is required effectively explores novel categories with minimal interactions on a limited number of instances. Propose ‘Similarity’ to measure semantic similarity between local geometries across different categories. Enable the model to perform few-shot learning on novel categories by discovering uncertain yet important areas.
-  * Under review of NeurIPS 2023 (All positive scores)
+  * **Accepted by NeurIPS 2023**
 
 <div align="center">
 <img src="https://tritiumr.github.io/assets/gif/w2a.gif" width = "600" height = "160" title="Few-shot on novel category">
@@ -52,7 +51,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
   * Hyperplane Lab, Center on Frontiers of Computing Studies, Peking University 
   * Supervisor: [Ph.D. Candidate Ruihai Wu](https://warshallrho.github.io), [Prof. Hao Dong](https://zsdonghao.github.io)
   * We propose an environment-aware affordance framework that incorporates both object-level actionable priors and environment constraints. A novel contrastive affordance learning framework is introduced, which is capable of training on scenes containing a single occluder and generalizing to scenes with complex occluder combinations.
-  * Under review of NeurIPS 2023 (All positive scores)
+  * **Accepted by NeurIPS 2023**
 
 <div align="center">
 <img src="https://tritiumr.github.io/assets/picture/env.png" width = "600" height = "120" title="Environment-aware Affordance">
