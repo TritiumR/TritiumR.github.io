@@ -25,10 +25,9 @@ Research
 - **Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation**
   * Ruihai Wu\*, **Chuanruo Ning**\*, Hao Dong   (\* denotes equal contribution)
   * We propose to learn dense visual representation for deformable object manipulation
-, which reveals the dynamic and kinematic property of deformable objects. 
-We also propose a novel training pipeline to take the future states after manipulation into consideration. 
+, which reveals the dynamic and kinematic property of deformable objects.
 By training in a reversed step-by-step manner, we enable the representation to be aware of 
-'potential', thus finding the global optimal action for deformable object manipulation tasks. 
+'value' of states, thus finding the global optimal action for deformable object manipulation tasks. 
   * [Paper](https://arxiv.org/abs/2303.11057) / [Project Page](https://hyperplane-lab.github.io/DeformableAffordance/) / [Video](https://www.youtube.com/watch?v=DiZ9aXjK_PU) / [Video(real-world)](https://www.youtube.com/watch?v=aYneBzwhOGs)
   * **ICCV 2023**
 
@@ -50,7 +49,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
 </div>
 
 - **Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusion**
-  * Ruihai Wu\*, Kai Cheng\*, Yan Zhao, **Chuanruo Ning**, Ganqi Zhan, Hao Dong
+  * Ruihai Wu\*, Kai Cheng\*, Yan Shen, **Chuanruo Ning**, Guanqi Zhan, Hao Dong
   * We propose an environment-aware affordance framework that incorporates both object-level actionable priors and environment 
   constraints. A novel contrastive affordance learning framework is introduced, which is capable of training on scenes containing 
   a single occluder and generalizing to scenes with complex occluder combinations.
