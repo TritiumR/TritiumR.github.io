@@ -62,7 +62,7 @@ By training in a reversed step-by-step manner, we enable the representation to b
 
 Talks
 =====
-Title: Occlusion Reasoning for Manipulation \
+Title: Part Detection via Render-and-compare Method \
 Date: 2023-8-18 \
 Location: Malone Hall, Johns Hopkins University, Baltimore, United States \
 [Slides](https://tritiumr.github.io/assets/ppt/Part_Detection.pdf)
