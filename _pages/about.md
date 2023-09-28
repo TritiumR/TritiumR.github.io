@@ -63,6 +63,11 @@ By training in a reversed step-by-step manner, we enable the representation to b
 Talks
 =====
 Title: Occlusion Reasoning for Manipulation \
+Date: 2023-8-18 \
+Location: Malone Hall, Johns Hopkins University, Baltimore, United States \
+[Slides](https://tritiumr.github.io/assets/ppt/Part_Detection.pdf)
+
+Title: Occlusion Reasoning for Manipulation \
 Date: 2022-8-4 \
 Location: Center on Frontiers of Computing Studies, Beijing, China \
 [Slides](https://tritiumr.github.io/assets/ppt/Occlusion_Reasoning.pdf)
@@ -78,6 +83,8 @@ Location: Center on Frontiers of Computing Studies, Beijing, China \
 
 Awards and Honors
 ======
+- 2023: Huatai Securities Scholarship
+- 2023: Peking University Merit Student
 - 2022: John Hopcroft Scholarship
 - 2022: Peking University Dean's Scholarship
 - 2020: Peking University Freshman Scholarship
