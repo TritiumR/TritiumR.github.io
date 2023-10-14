@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Chuanruo Ning"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Senior Undergraduate Student at Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT2_6eObakpidNsNwCS_32G7mo0x36rs3KbXVh7VlTmQaY3u5LKeAHV5jQPWFGaygyQo2rSovl60MSn-yWsjYkThQto&user=jnLq85IAAAAJ"
   email            : "chuanruo@stu.pku.edu.cn"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
