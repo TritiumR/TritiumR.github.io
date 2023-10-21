@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I'm a senior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm), [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
+I'm a senior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm) at the [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
 I'm interested in computer vision for robotics. 
 
 Currently, I am a research intern at [CCVL](https://ccvl.jhu.edu/team/), supervised by Bloomberg Distinguished Professor [Alan Yuille](https://www.cs.jhu.edu/~ayuille/). Before that, I was a research intern at Hyperplane Lab, 
@@ -23,11 +23,11 @@ Research
 ======
 
 - **Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation**
-  * Ruihai Wu\*, **Chuanruo Ning**\*, Hao Dong       (\* denotes equal contribution, order determined by coin flip)
+  * Ruihai Wu\*, **Chuanruo Ning**\*, Hao Dong       (\* denotes equal contribution)
   * We propose to learn dense visual representation for deformable object manipulation
 , which reveals the dynamic and kinematic property of deformable objects.
 By training in a reversed step-by-step manner, we enable the representation to be aware of 
-'value' of states, thus finding the global optimal action for deformable object manipulation tasks. 
+`value' of states, thus finding the global optimal action for deformable object manipulation tasks. 
   * [Paper](https://arxiv.org/abs/2303.11057) / [Project Page](https://hyperplane-lab.github.io/DeformableAffordance/) / [Video](https://www.youtube.com/watch?v=DiZ9aXjK_PU) / [Video(real-world)](https://www.youtube.com/watch?v=aYneBzwhOGs)
   * **ICCV 2023**
 
