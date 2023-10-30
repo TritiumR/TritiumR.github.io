@@ -22,19 +22,6 @@ You can find my CV here: [Chuanruo Ning's CV](https://tritiumr.github.io/assets/
 Research
 ======
 
-- **Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation**
-  * Ruihai Wu\*, **Chuanruo Ning**\*, Hao Dong       (\* denotes equal contribution)
-  * We propose to learn dense visual representation for deformable object manipulation
-, which reveals the dynamic and kinematic property of deformable objects.
-By training in a reversed step-by-step manner, we enable the representation to be aware of 
-`value' of states, thus finding the global optimal action for deformable object manipulation tasks. 
-  * [Paper](https://arxiv.org/abs/2303.11057) / [Project Page](https://hyperplane-lab.github.io/DeformableAffordance/) / [Video](https://www.youtube.com/watch?v=DiZ9aXjK_PU) / [Video(real-world)](https://www.youtube.com/watch?v=aYneBzwhOGs)
-  * **ICCV 2023**
-
-<div align="center">
-<img src="https://tritiumr.github.io/assets/picture/deformable.png" width="650" height="150" title="Manipulation demonstration in the real world">
-</div>
-
 - **Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects**
   * **Chuanruo Ning**, Ruihai Wu, Haoran Lu, Kaichun Mo, Hao Dong
   * Explore the cross-category few-shot learning task, where the model is required effectively explores novel categories 
@@ -60,6 +47,20 @@ By training in a reversed step-by-step manner, we enable the representation to b
 <img src="https://tritiumr.github.io/assets/picture/env.png" width = "600" height = "120" title="Environment-aware Affordance">
 </div>
 
+- **Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation**
+  * Ruihai Wu\*, **Chuanruo Ning**\*, Hao Dong    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (\* denotes equal contribution)
+  * We propose to learn dense visual representation for deformable object manipulation
+, which reveals the dynamic and kinematic property of deformable objects.
+By training in a reversed step-by-step manner, we enable the representation to be aware of 
+`value' of states, thus finding the global optimal action for deformable object manipulation tasks. 
+  * [Paper](https://arxiv.org/abs/2303.11057) / [Project Page](https://hyperplane-lab.github.io/DeformableAffordance/) / [Video](https://www.youtube.com/watch?v=DiZ9aXjK_PU) / [Video(real-world)](https://www.youtube.com/watch?v=aYneBzwhOGs)
+  * **ICCV 2023**
+
+<div align="center">
+<img src="https://tritiumr.github.io/assets/picture/deformable.png" width="650" height="150" title="Manipulation demonstration in the real world">
+</div>
+
+
 Talks
 =====
 Title: Part Detection via Render-and-compare Method \
@@ -79,7 +80,7 @@ Location: Center on Frontiers of Computing Studies, Beijing, China \
 
 # Services
 - Program Committee: The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)
-
+- Reviewer: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
 
 Awards and Honors
 ======
