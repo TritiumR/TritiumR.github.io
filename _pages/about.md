@@ -79,8 +79,8 @@ Location: Center on Frontiers of Computing Studies, Beijing, China \
 [Slides](https://tritiumr.github.io/assets/ppt/In-hand_Reorientation.pdf)
 
 # Services
-- Program Committee: The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)
-- Reviewer: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
+- Program Committee: Annual AAAI Conference on Artificial Intelligence (AAAI 2024)
+- Reviewer: Conference on Computer Vision and Pattern Recognition (CVPR 2024)
 
 Awards and Honors
 ======
