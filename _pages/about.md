@@ -21,6 +21,16 @@ You can find my CV here: [Chuanruo Ning's CV](https://tritiumr.github.io/assets/
 
 Research
 ======
+- **Zero-shot Category-level 2D Part Segmentation from a Single 3D Annotation**
+  * **Chuanruo Ning**, Jiawei Peng, Yaoyao Liu, Jiahao Wang, Yining Sun, Alan Yuille, Adam Kortylewski, Angtian Wang
+  * We achieve zero-shot object part segmentation that only requires one 3D annotation for part definition. With one 
+  training, our framework could directly generalize to any part definition without any adaption. We establish the 3D to 
+  3D correspondence for part transfer across meshes and 3D to 2D correspondence for render-and-compare based part detection.
+  * **Under review**
+
+<div align="center">
+<img src="https://tritiumr.github.io/assets/picture/corr.png" width = "600" height = "160" title="Few-shot on novel category">
+</div>
 
 - **Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects**
   * **Chuanruo Ning**, Ruihai Wu, Haoran Lu, Kaichun Mo, Hao Dong
