@@ -1,0 +1,183 @@
+<html>
+<head>
+<title>Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions</title>
+<link href='./css/paperstype.css' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+
+<div class="pageTitle">
+  Where2Explore: Few-shot Affordance Learning for <br> Unseen Novel Categories of Articulated Objects
+  <br>
+  <br>
+  <span class = "Authors">
+      <a href="https://tritiumr.github.io/" target="_blank">Chaunruo Ning</a><sup>1</sup> &nbsp; &nbsp;
+      <a href="https://warshallrho.github.io/" target="_blank">Ruihai Wu</a><sup>2, 4</sup> &nbsp; &nbsp;
+      Haoran Lu<sup>1</sup> &nbsp; &nbsp;
+      <a href="https://kaichun-mo.github.io/" target="_blank">Kaichun Mo</a><sup>3</sup> &nbsp;
+      <a href="https://zsdonghao.github.io/" target="_blank">Hao Dong</a><sup>2, 4</sup> <br>
+      <sup>1</sup>School of EECS, PKU &nbsp;
+      <sup>2</sup>CFCS, School of CS, PKU &nbsp; &nbsp;
+      <sup>3</sup>NVIDIA<br>
+      <sup>4</sup>National Key Laboratory for Multimedia Information Processing, School of CS, PKU &nbsp;<br><br>
+  </span>
+  </div>
+<br>
+<div class = "material">
+        NeurIPS 2023
+</div>
+<br>
+<div class = "material">
+        <a href="https://arxiv.org/pdf/2309.07473.pdf" target="_blank">[Paper]</a>
+<!--        <a href="https://github.com/chengkaiAcademyCity/EnvAwareAfford" target="_blank">[Code]</a>-->
+        <a href="paper.bib" target="_blank">[BibTex]</a>
+</div>
+
+<div class="abstractTitle">
+    Takeaway Messages
+</div>
+<p class="abstractText">
+    <b>Learning to Learn:</b> We propose to teach models how to learn the manipulation skills on novel objects through few-shot exploration, which equips robots with efficient learning ability.<br>
+    <br>
+    <b>Local Sematic Similarity:</b> Despite the significant shape variance among different object categories, we observed that they share some local geometries that contain similar semantics regarding manipulation.<br>
+</p>
+
+<div class = "abstractTitle">
+  Abstract
+  </div>
+  <p class = "abstractText">
+    Articulated object manipulation is a fundamental yet challenging task in robotics. Due to significant geometric and
+      semantic variations across object categories, previous manipulation models struggle to generalize to novel categories.
+      Few-shot learning is a promising solution for alleviating this issue by allowing robots to perform a few interactions
+      with unseen objects. However, extant approaches often necessitate costly and inefficient test-time interactions with
+      each unseen instance. Recognizing this limitation, we observe that despite their distinct shapes, different categories
+      often share similar local geometries essential for manipulation, such as pullable handles and graspable edges - a
+      factor typically underutilized in previous few-shot learning works. To harness this commonality, we introduce 'Where2Explore',
+      an affordance learning framework that effectively explores novel categories with minimal interactions on a limited number
+      of instances. Our framework explicitly estimates the geometric similarity across different categories, identifying local
+      areas that differ from shapes in the training categories for efficient exploration while concurrently transferring
+      affordance knowledge to similar parts of the objects. Extensive experiments in simulated and real-world environments
+      demonstrate our framework's capacity for efficient few-shot exploration and generalization.
+    </p>
+<div class="abstractTitle">
+    Video Presentation
+</div>
+
+<center>
+    <iframe width="672" height="378" src="https://www.youtube.com/embed/NKfUewWAors?si=MJdcRwDe1_6kd3un" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <!-- <br><br><br> -->
+    <!-- <iframe width="660" height="415" src="//player.bilibili.com/player.html?aid=723560870&bvid=BV1gS4y1y7hD&cid=494463403&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
+</center>
+
+<br>
+<br>
+<br>
+
+<div class="abstractTitle">
+  Learning to Learn
+</div>
+  <img class="bannerImage" src="./images/diverse.png" ,="" width="800"><br>
+  <table width="800" align="center"><tbody><tr><td><p class="figureTitleText">
+    The diversity of articulated objects makes current manipulation policy hard to generalize to unseen objects, especially objects
+      from a novel category, where objects have a huge variance in shape and manipulation properties. Even if trained on a large-scale
+      dataset that is costly and inefficient to obtain, the model could still fail to generalize when faced with a novel category.
+
+    Instead of just training models to learn how to manipulate articulated objects, we propose to teach models how to learn the
+      manipulation skills on novel objects through few-shot exploration, which equips robots with efficient learning ability.
+
+</p></td></tr></tbody></table>
+
+<div class="abstractTitle">
+  Where to Explore
+</div>
+  <img class="bannerImage" src="./images/local.png" ,="" width="800"><br>
+  <table width="800" align="center"><tbody><tr><td><p class="figureTitleText">
+        The core problem to solve when learning manipulation priors on novel objects is wisely choosing the interactions
+      with objects. A random exploration policy would make the learning process inefficient and impractical in the real world.
+
+Despite the significant shape variance among different object categories, we observed that they share some local
+      geometries that contain similar semantics regarding manipulation (e.g., the handle of the door and the handle
+      of the faucet both provide pulling and rotation action). We propose to learn these semantic similarities across
+      categories explicitly. During the few-shot learning process, the model could efficiently explore the dissimilar yet
+      important areas of the novel objects while directly transferring manipulation before similar regions.
+
+</p></td></tr></tbody></table>
+  
+  
+<div class="abstractTitle">
+    Cross-category Similarity Learning
+</div>
+  <img class="bannerImage" src="./images/similarity.png" ,="" width="800"><br>
+  <table width="800" align="center"><tbody><tr><td><p class="figureTitleText">
+        To achieve the goal of guiding the few-shot exploration process, we learn the similarity based on action parameters
+      since even similar geometries could have distinct manipulation semantics (e.g., horizontal handle and vertical handle).
+      Specifically, we split the training categories into "Affordance Category" and "Similarity Categories". While the objects
+      in the affordance category are used by the "Affordance Module" to learn the manipulation prior, the interactions in the
+      similarity categories are compared with affordance prediction to supervise the learning of the "Similarity Module",
+      which predicts high similarity when the prediction of the "Affordance Module" is correct and vice versa.
+      </p></td></tr></tbody></table>
+      
+<div class="abstractTitle">
+  Few-shot Exploration
+</div>
+<img class="bannerImage" src="./images/explore.png" ,="" width="800"><br>
+<table width="800" align="center"><tbody><tr><td><p class="figureTitleText">
+    When faced with novel categories, the model could leverage the learned similarity to guide the few-shot exploration
+  and update both modules. After a few interactions, our model could generalize to unseen objects in this category.
+</p></td></tr></tbody></table>
+
+<div class="abstractTitle">
+  Experiments
+</div>
+<img class="bannerImage" src="./images/table.png" ,="" width="800"><br>
+<table width="800" align="center"><tbody><tr><td><p class="figureTitleText">
+    We only use 3 categories for training and let the model perform few-shot learning on 11 novel categories
+    (50 interaction budget for each category), after which the model is tested on unseen objects from these 11 categories.
+
+</p></td></tr></tbody></table>
+
+<img class="bannerImage" src="./images/visualization.png" ,="" width="800"><br>
+<table width="800" align="center"><tbody><tr><td><p class="figureTitleText">
+    Here are some visualization of the exploration process. The model could efficiently explore the novel objects by interacting with
+    the dissimilar yet important areas.
+</p></td></tr></tbody></table>
+
+<img class="bannerImage" src="./images/real.png" ,="" width="800"><br>
+<table width="800" align="center"><tbody><tr><td><p class="figureTitleText">
+    We also conduct real-world experiments, where we require the model trained on cabinets, windows, and
+    faucets, to perform a few-shot exploration on four mugs and manipulate another mug after the exploration.
+</p></td></tr></tbody></table>
+
+<div class="abstractTitle">
+  Few-shot Exploration
+</div>
+<img class="bannerImage" src="./images/explore.png" ,="" width="800"><br>
+<table width="800" align="center"><tbody><tr><td><p class="figureTitleText">
+    When faced with novel categories, the model could leverage the learned similarity to guide the few-shot exploration
+  and update both modules. After a few interactions, our model could generalize to unseen objects in this category.
+</p></td></tr></tbody></table>
+
+  <div class="abstractTitle">
+  Citation
+  </div>
+  <div class="myBibTex">
+    <pre style="background-color: #EBEBEB;">@inproceedings{ning2023learning,
+      title={Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects},
+      author={Ning, Chuanruo and Wu, Ruihai and Lu, Haoran and Mo, Kaichun and Dong, Hao},
+      booktitle={Advances in Neural Information Processing Systems},
+      year={2023}
+    }
+    </pre>
+  </div>
+
+  <div class="abstractTitle">
+    Contact
+    </div>
+    <p class="abstractText">
+      If you have any questions, please feel free to contact 
+      <a href="https://tritiumr.github.io/" target="_blank">Chuanruo Ning</a>
+    </p>
+
+<p></p> 
+
+</body></html>
