@@ -38,7 +38,7 @@ Research
   with minimal interactions on a limited number of instances. Propose ‘Similarity’ to measure semantic similarity between 
   local geometries across different categories. Enable the model to perform few-shot learning on novel categories by 
   discovering uncertain yet important areas.
-  * [Paper](https://arxiv.org/abs/2309.07473) / [Project Page](https://hyperplane-lab.github.io/Where2Explore/)
+  * [Paper](https://arxiv.org/abs/2309.07473) / [Project Page](https://tritiumr.github.io/Where2Explore/)
   * **NeurIPS 2023**
 
 <div align="center">
