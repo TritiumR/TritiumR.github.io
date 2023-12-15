@@ -1,1 +1,1 @@
-# Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions
+# Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects
