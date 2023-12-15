@@ -38,7 +38,7 @@ Research
   with minimal interactions on a limited number of instances. Propose ‘Similarity’ to measure semantic similarity between 
   local geometries across different categories. Enable the model to perform few-shot learning on novel categories by 
   discovering uncertain yet important areas.
-  * [Paper](https://arxiv.org/abs/2309.07473)
+  * [Paper](https://arxiv.org/abs/2309.07473) / [Project Page](https://hyperplane-lab.github.io/Where2Explore/)
   * **NeurIPS 2023**
 
 <div align="center">
@@ -50,7 +50,7 @@ Research
   * We propose an environment-aware affordance framework that incorporates both object-level actionable priors and environment 
   constraints. A novel contrastive affordance learning framework is introduced, which is capable of training on scenes containing 
   a single occluder and generalizing to scenes with complex occluder combinations.
-  * [Paper](https://arxiv.org/abs/2309.07510)
+  * [Paper](https://arxiv.org/abs/2309.07510) / [Project Page](https://chengkaiacademycity.github.io/EnvAwareAfford/)
   * **NeurIPS 2023**
 
 <div align="center">
