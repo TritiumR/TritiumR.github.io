@@ -21,18 +21,12 @@ You can find my CV here: [Chuanruo Ning's CV](https://tritiumr.github.io/assets/
 
 Research
 ======
-- **Zero-shot Category-level 2D Part Segmentation from a Single 3D Annotation**
+- **Part321: Recognizing Object Parts in 3D from a 2D Image Using 1-Shot Annotations**
   * **Chuanruo Ning**, Jiawei Peng, Yaoyao Liu, Jiahao Wang, Yining Sun, Alan Yuille, Adam Kortylewski, Angtian Wang
   * We achieve zero-shot object part segmentation that only requires one 3D annotation for part definition. With one 
   training, our framework could directly generalize to any part definition without any adaption. We establish the 3D to 
   3D correspondence for part transfer across meshes and 3D to 2D correspondence for render-and-compare based part detection.
   * **Under review**
-
-[//]: # (<div align="center">)
-
-[//]: # (<img src="https://tritiumr.github.io/assets/picture/corr.png" width = "600" height = "160" title="Few-shot on novel category">)
-
-[//]: # (</div>)
 
 - **Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects**
   * **Chuanruo Ning**, Ruihai Wu, Haoran Lu, Kaichun Mo, Hao Dong
@@ -43,11 +37,6 @@ Research
   * [Paper](https://arxiv.org/abs/2309.07473) / [Project Page](https://tritiumr.github.io/Where2Explore/)
   * **NeurIPS 2023**
 
-[//]: # (<div align="center">)
-
-[//]: # (<img src="https://tritiumr.github.io/assets/picture/w2e.png" width = "600" height = "160" title="Few-shot on novel category">)
-
-[//]: # (</div>)
 
 - **Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusion**
   * Ruihai Wu\*, Kai Cheng\*, Yan Shen, **Chuanruo Ning**, Guanqi Zhan, Hao Dong
@@ -57,9 +46,6 @@ Research
   * [Paper](https://arxiv.org/abs/2309.07510) / [Project Page](https://chengkaiacademycity.github.io/EnvAwareAfford/)
   * **NeurIPS 2023**
 
-<div align="center">
-<img src="https://tritiumr.github.io/assets/picture/env.png" width = "600" height = "120" title="Environment-aware Affordance">
-</div>
 
 - **Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation**
   * Ruihai Wu\*, **Chuanruo Ning**\*, Hao Dong    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (\* denotes equal contribution)
@@ -69,12 +55,6 @@ By training in a reversed step-by-step manner, we enable the representation to b
 `value' of states, thus finding the global optimal action for deformable object manipulation tasks. 
   * [Paper](https://arxiv.org/abs/2303.11057) / [Project Page](https://hyperplane-lab.github.io/DeformableAffordance/) / [Video](https://www.youtube.com/watch?v=DiZ9aXjK_PU) / [Video(real-world)](https://www.youtube.com/watch?v=aYneBzwhOGs)
   * **ICCV 2023**
-
-[//]: # (<div align="center">)
-
-[//]: # (<img src="https://tritiumr.github.io/assets/picture/deformable.png" width="650" height="150" title="Manipulation demonstration in the real world">)
-
-[//]: # (</div>)
 
 
 Talks
