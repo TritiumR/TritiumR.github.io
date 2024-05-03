@@ -10,7 +10,8 @@ redirect_from:
 
 # About Me
 
-I'm a senior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm) at the [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
+I'm an incoming CS Ph.D. student at [Cornell University](https://www.cornell.edu).
+Currently, I'm a senior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm) at the [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
 I'm interested in 3D computer vision. 
 
 Currently, I am a research intern at [CCVL](https://ccvl.jhu.edu/team/), supervised by Bloomberg Distinguished Professor [Alan Yuille](https://www.cs.jhu.edu/~ayuille/). Before that, I was a research intern at Hyperplane Lab, 
