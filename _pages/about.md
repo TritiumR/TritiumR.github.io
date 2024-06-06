@@ -12,7 +12,7 @@ redirect_from:
 
 I'm an incoming CS Ph.D. student at [Cornell University](https://www.cornell.edu).
 Currently, I'm a senior student in [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm) at the [School of Computer Science](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
-I'm interested in 3D computer vision. 
+I'm interested in Robotics and 3D Vision. 
 
 Previously, I am a research intern at [CCVL](https://ccvl.jhu.edu/team/), supervised by Bloomberg Distinguished Professor [Alan Yuille](https://www.cs.jhu.edu/~ayuille/). Before that, I was a research intern at Hyperplane Lab, 
 [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/english/), advised by [Prof. Hao Dong](https://zsdonghao.github.io).
@@ -29,6 +29,22 @@ Research
   3D correspondence for part transfer across meshes and 3D to 2D correspondence for render-and-compare based part detection.
   * **Under review**
 
+<div align="center">
+<img src="https://tritiumr.github.io/assets/picture/corr.png" width = "600" height = "160" title="Few-shot on novel category">
+</div>
+
+- **Broadcasting Support Relations Recursively from Local Dynamics for Object Retrieval in Clutters**
+  * Yitong Li\*, Ruihai Wu\*, Haoran Lu, **Chuanruo Ning**, Yan Shen, Guanqi Zhan, Hao Dong
+  *  we study retrieving objects in complicated clutters via a novel method of recursively broadcasting the accurate 
+  local dynamics to build a support relation graph of the whole scene, which largely reduces the complexity of the 
+  support relation inference and improves the accuracy.
+  * [Paper](https://arxiv.org/abs/2406.02283) / Project Page (coming soon)
+  * **RSS 2024**
+
+<div align="center">
+<img src="https://tritiumr.github.io/assets/picture/clutter.png" width="650" height="150" title="Support relation broadcasting">
+</div>
+
 - **Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects**
   * **Chuanruo Ning**, Ruihai Wu, Haoran Lu, Kaichun Mo, Hao Dong
   * Explore the cross-category few-shot learning task, where the model is required effectively explores novel categories 
@@ -38,6 +54,9 @@ Research
   * [Paper](https://arxiv.org/abs/2309.07473) / [Project Page](https://tritiumr.github.io/Where2Explore/)
   * **NeurIPS 2023**
 
+<div align="center">
+<img src="https://tritiumr.github.io/assets/picture/w2e.png" width = "600" height = "160" title="Few-shot on novel category">
+</div>
 
 - **Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusion**
   * Ruihai Wu\*, Kai Cheng\*, Yan Shen, **Chuanruo Ning**, Guanqi Zhan, Hao Dong
@@ -47,6 +66,9 @@ Research
   * [Paper](https://arxiv.org/abs/2309.07510) / [Project Page](https://chengkaiacademycity.github.io/EnvAwareAfford/)
   * **NeurIPS 2023**
 
+<div align="center">
+<img src="https://tritiumr.github.io/assets/picture/env.png" width = "600" height = "120" title="Environment-aware Affordance">
+</div>
 
 - **Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation**
   * Ruihai Wu\*, **Chuanruo Ning**\*, Hao Dong    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (\* denotes equal contribution)
@@ -57,6 +79,9 @@ By training in a reversed step-by-step manner, we enable the representation to b
   * [Paper](https://arxiv.org/abs/2303.11057) / [Project Page](https://hyperplane-lab.github.io/DeformableAffordance/) / [Video](https://www.youtube.com/watch?v=DiZ9aXjK_PU) / [Video(real-world)](https://www.youtube.com/watch?v=aYneBzwhOGs)
   * **ICCV 2023**
 
+<div align="center">
+<img src="https://tritiumr.github.io/assets/picture/deformable.png" width="650" height="150" title="Manipulation demonstration in the real world">
+</div>
 
 Talks
 =====
