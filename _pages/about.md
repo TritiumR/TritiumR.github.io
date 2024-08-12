@@ -18,7 +18,7 @@ Previously, I am a research intern at [CCVL](https://ccvl.jhu.edu/team/), superv
 [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/english/), advised by [Prof. Hao Dong](https://zsdonghao.github.io).
 I have also collaborated with [Dr. Kaichun Mo](https://kaichun-mo.github.io) (NVIDIA) on object manipulation.
 
-You can find my CV here: [Chuanruo Ning's CV](https://tritiumr.github.io/assets/CV.pdf)
+[//]: # (You can find my CV here: [Chuanruo Ning's CV]&#40;https://tritiumr.github.io/assets/CV.pdf&#41;)
 
 Research
 ======
