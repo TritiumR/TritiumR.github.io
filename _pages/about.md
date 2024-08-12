@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I'm an incoming CS Ph.D. student at [Cornell University](https://www.cornell.edu).
+I'm an incoming CS PhD student at [Cornell University](https://www.cornell.edu).
 I obtained my bachelor degree from [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm) at the [School of EECS](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
 I'm interested in Robotics and 3D Vision. 
 
