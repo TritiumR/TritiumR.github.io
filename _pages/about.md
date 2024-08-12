@@ -16,7 +16,7 @@ I'm interested in Robotics and 3D Vision.
 
 Previously, I am a research intern at [CCVL](https://ccvl.jhu.edu/team/), supervised by Bloomberg Distinguished Professor [Alan Yuille](https://www.cs.jhu.edu/~ayuille/). Before that, I was a research intern at Hyperplane Lab, 
 [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/english/), advised by [Prof. Hao Dong](https://zsdonghao.github.io).
-I'm also collaborating with [Dr. Kaichun Mo](https://kaichun-mo.github.io) (NVIDIA) on articulated object manipulation.
+I have also collaborated with [Dr. Kaichun Mo](https://kaichun-mo.github.io) (NVIDIA) on object manipulation.
 
 You can find my CV here: [Chuanruo Ning's CV](https://tritiumr.github.io/assets/CV.pdf)
 
