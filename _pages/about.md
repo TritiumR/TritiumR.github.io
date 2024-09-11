@@ -10,9 +10,9 @@ redirect_from:
 
 # About Me
 
-I'm an incoming CS PhD student at [Cornell University](https://www.cornell.edu).
+I'm a first-year CS PhD student at [Cornell University](https://www.cornell.edu).
 I obtained my bachelor degree from [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm) at the [School of EECS](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
-I'm interested in Robotics and 3D Vision. 
+I'm interested in leveraging 3D information to help robot manipulation.
 
 Previously, I am a research intern at [CCVL](https://ccvl.jhu.edu/team/), supervised by Bloomberg Distinguished Professor [Alan Yuille](https://www.cs.jhu.edu/~ayuille/). Before that, I was a research intern at Hyperplane Lab, 
 [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/english/), advised by [Prof. Hao Dong](https://zsdonghao.github.io).
