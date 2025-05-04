@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome To My Home Page"
+title: "Chuanruo Ning"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+<!-- # About Me -->
 
 I'm a first-year CS PhD student at [Cornell University](https://www.cornell.edu).
 I obtained my bachelor degree from [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm) at the [School of EECS](https://eecs.pku.edu.cn), [Peking University](https://english.pku.edu.cn). 
