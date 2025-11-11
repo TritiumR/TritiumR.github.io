@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- # About Me -->
 
-I'm a first-year CS PhD student at Cornell University working with Prof. [Wei-Chiu Ma](https://www.cs.cornell.edu/~weichiu/) and Prof. [Kuan Fang](https://kuanfang.github.io/).
+I'm a second-year CS PhD student at Cornell University working with Prof. [Wei-Chiu Ma](https://www.cs.cornell.edu/~weichiu/) and Prof. [Kuan Fang](https://kuanfang.github.io/).
 I obtained my bachelor degree from [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm) at Peking University. 
 I'm interested in leveraging 3D information to help robot manipulation. I was fortunate to have worked with Prof. [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Hao Dong](https://zsdonghao.github.io), and Dr. [Kaichun Mo](https://kaichun-mo.github.io).
 

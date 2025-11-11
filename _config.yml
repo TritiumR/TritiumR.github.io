@@ -9,7 +9,7 @@
 locale                   : "Ithaca, NY, USA"
 title                    : "Chuanruo Ning"
 title_separator          : "-"
-name                     : &name "Chuanruo Ning"
+name                     : &name
 description              : &description "personal description"
 url                      : https://TritiumR.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
