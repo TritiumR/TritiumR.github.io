@@ -106,7 +106,7 @@
 
   .research-paper {
     display: grid;
-    grid-template-columns: 120px minmax(0, 1fr);
+    grid-template-columns: 150px minmax(0, 1fr);
     align-items: start;
     gap: 0.85em;
     margin-bottom: 0.9em;
@@ -115,14 +115,14 @@
   }
 
   .research-paper__figure {
-    width: 120px;
+    width: 150px;
     margin: 0;
   }
 
   .research-paper__figure img {
     display: block;
-    width: 120px;
-    height: 72px;
+    width: 150px;
+    height: 90px;
     object-fit: contain;
     border-radius: $border-radius;
   }
@@ -203,17 +203,17 @@
 
   @include breakpoint(max-width $small) {
     .research-paper {
-      grid-template-columns: 72px minmax(0, 1fr);
+      grid-template-columns: 96px minmax(0, 1fr);
       gap: 0.7em;
     }
 
     .research-paper__figure {
-      width: 72px;
+      width: 96px;
     }
 
     .research-paper__figure img {
-      width: 72px;
-      height: 48px;
+      width: 96px;
+      height: 60px;
     }
 
     .research-paper__content h3 {

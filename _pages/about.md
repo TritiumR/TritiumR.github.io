@@ -25,7 +25,7 @@ Research
 <div class="research-list">
   <article class="research-paper">
     <div class="research-paper__figure">
-      <img src="https://portal-cornell.github.io/X-Diffusion/media/fig4.png" alt="Naive vs X-Diffusion comparison">
+      <img src="https://tritiumr.github.io/assets/picture/X-diffusion.png" alt="X-Diffusion overview">
     </div>
     <div class="research-paper__content">
       <h3>X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations</h3>
