@@ -100,6 +100,100 @@
     font-size: $type-size-6;
   }
 
+  .research-list {
+    margin: 1em 0 2em;
+  }
+
+  .research-paper {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    margin-bottom: 1.1em;
+    padding-bottom: 1.1em;
+    border-bottom: 1px solid $border-color;
+  }
+
+  .research-paper__figure {
+    flex: 0 0 220px;
+    margin: 0;
+  }
+
+  .research-paper__figure img {
+    display: block;
+    width: 100%;
+    max-height: 118px;
+    object-fit: contain;
+  }
+
+  .research-paper__content {
+    min-width: 0;
+  }
+
+  .research-paper__content h3 {
+    margin: 0 0 0.35em;
+    font-size: 1em;
+    line-height: 1.25;
+  }
+
+  .research-paper__content p {
+    margin-bottom: 0.25em;
+    line-height: 1.35;
+  }
+
+  .research-paper__venue {
+    font-weight: bold;
+  }
+
+  .research-paper__authors,
+  .research-paper__links {
+    font-size: $type-size-6;
+  }
+
+  .research-paper__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    margin-top: 0.45em;
+  }
+
+  .research-paper__links a,
+  .research-paper__link-disabled {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35em;
+    padding: 0.25em 0.55em;
+    border: 1px solid mix(#fff, $link-color, 78%);
+    border-radius: 4px;
+    background-color: mix(#fff, $link-color, 95%);
+    line-height: 1.2;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .research-paper__links a:hover {
+    border-color: mix(#fff, $link-color-hover, 55%);
+    background-color: mix(#fff, $link-color-hover, 90%);
+    text-decoration: none;
+  }
+
+  .research-paper__link-disabled {
+    color: mix(#fff, $gray, 25%);
+    border-color: $lighter-gray;
+    background-color: mix(#fff, $lighter-gray, 55%);
+  }
+
+  @include breakpoint(max-width $small) {
+    .research-paper {
+      display: block;
+    }
+
+    .research-paper__figure {
+      width: 100%;
+      max-width: 320px;
+      margin-bottom: 0.7em;
+    }
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
