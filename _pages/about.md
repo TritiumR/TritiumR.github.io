@@ -24,9 +24,9 @@ Research
 ======
 <div class="research-list">
   <article class="research-paper">
-    <figure class="research-paper__figure">
+    <div class="research-paper__figure">
       <img src="https://portal-cornell.github.io/X-Diffusion/media/fig4.png" alt="Naive vs X-Diffusion comparison">
-    </figure>
+    </div>
     <div class="research-paper__content">
       <h3>X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations</h3>
       <p class="research-paper__venue">arXiv 2025</p>
@@ -41,13 +41,14 @@ Research
   </article>
 
   <article class="research-paper">
-    <figure class="research-paper__figure">
+    <div class="research-paper__figure">
       <img src="https://tritiumr.github.io/assets/picture/pwf.gif" alt="Prompting with the future">
-    </figure>
+    </div>
     <div class="research-paper__content">
       <h3>Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins</h3>
       <p class="research-paper__venue">RSS 2025</p>
-      <p class="research-paper__authors"><strong>Chuanruo Ning</strong>, Kuan Fang†, Wei-Chiu Ma†</p>
+      <p class="research-paper__authors"><strong>Chuanruo Ning</strong>, Kuan Fang <span class="research-paper__author-icon" title="Co-last author" aria-label="Co-last author"><i class="fas fa-user-friends" aria-hidden="true"></i></span>, Wei-Chiu Ma <span class="research-paper__author-icon" title="Co-last author" aria-label="Co-last author"><i class="fas fa-user-friends" aria-hidden="true"></i></span></p>
+      <p class="research-paper__author-note"><span class="research-paper__author-icon" aria-hidden="true"><i class="fas fa-user-friends" aria-hidden="true"></i></span> co-last author</p>
       <p class="research-paper__links">
         <a href="https://prompting-with-the-future.github.io/"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></a>
         <a href="https://github.com/TritiumR/Prompting-with-the-Future"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span></a>
@@ -56,9 +57,9 @@ Research
   </article>
 
   <article class="research-paper">
-    <figure class="research-paper__figure">
+    <div class="research-paper__figure">
       <img src="https://tritiumr.github.io/assets/picture/corr.png" alt="Few-shot on novel category">
-    </figure>
+    </div>
     <div class="research-paper__content">
       <h3>Part321: Recognizing Object Parts in 3D from a 2D Image Using 1-Shot Annotations</h3>
       <p class="research-paper__venue">Under review</p>
@@ -67,9 +68,9 @@ Research
   </article>
 
   <article class="research-paper">
-    <figure class="research-paper__figure">
+    <div class="research-paper__figure">
       <img src="https://tritiumr.github.io/assets/picture/clutter.png" alt="Support relation broadcasting">
-    </figure>
+    </div>
     <div class="research-paper__content">
       <h3>Broadcasting Support Relations Recursively from Local Dynamics for Object Retrieval in Clutters</h3>
       <p class="research-paper__venue">RSS 2024</p>
@@ -82,9 +83,9 @@ Research
   </article>
 
   <article class="research-paper">
-    <figure class="research-paper__figure">
+    <div class="research-paper__figure">
       <img src="https://tritiumr.github.io/assets/picture/w2e.png" alt="Few-shot on novel category">
-    </figure>
+    </div>
     <div class="research-paper__content">
       <h3>Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects</h3>
       <p class="research-paper__venue">NeurIPS 2023</p>
@@ -97,9 +98,9 @@ Research
   </article>
 
   <article class="research-paper">
-    <figure class="research-paper__figure">
+    <div class="research-paper__figure">
       <img src="https://tritiumr.github.io/assets/picture/env.png" alt="Environment-aware Affordance">
-    </figure>
+    </div>
     <div class="research-paper__content">
       <h3>Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusion</h3>
       <p class="research-paper__venue">NeurIPS 2023</p>
@@ -112,9 +113,9 @@ Research
   </article>
 
   <article class="research-paper">
-    <figure class="research-paper__figure">
+    <div class="research-paper__figure">
       <img src="https://tritiumr.github.io/assets/picture/deformable.png" alt="Manipulation demonstration in the real world">
-    </figure>
+    </div>
     <div class="research-paper__content">
       <h3>Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation</h3>
       <p class="research-paper__venue">ICCV 2023</p>
