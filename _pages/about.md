@@ -29,7 +29,7 @@ Research
     </div>
     <div class="research-paper__content">
       <h3>X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations</h3>
-      <p class="research-paper__venue">arXiv 2025</p>
+      <p class="research-paper__venue">ICRA 2026</p>
       <p class="research-paper__authors">Maximus A. Pace*, Prithwish Dan*, <strong>Chuanruo Ning</strong>, Atiksh Bhardwaj, Audrey Du, Edward W. Duan, Wei-Chiu Ma†, Kushal Kedia†</p>
       <p class="research-paper__links">
         <a href="https://portal-cornell.github.io/X-Diffusion/X-Diffusion.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>Paper</span></a>
