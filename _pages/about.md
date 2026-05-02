@@ -62,7 +62,7 @@ Research
     </div>
     <div class="research-paper__content">
       <h3>Part321: Recognizing Object Parts in 3D from a 2D Image Using 1-Shot Annotations</h3>
-      <p class="research-paper__venue">Under review</p>
+      <!-- <p class="research-paper__venue"></p> -->
       <p class="research-paper__authors"><strong>Chuanruo Ning</strong>*, Jiawei Peng*, Yaoyao Liu, Jiahao Wang, Yining Sun, Alan Yuille, Adam Kortylewski, Angtian Wang</p>
     </div>
   </article>
@@ -77,7 +77,7 @@ Research
       <p class="research-paper__authors">Yitong Li*, Ruihai Wu*, Haoran Lu, <strong>Chuanruo Ning</strong>, Yan Shen, Guanqi Zhan, Hao Dong</p>
       <p class="research-paper__links">
         <a href="https://arxiv.org/abs/2406.02283"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>Paper</span></a>
-        <span class="research-paper__link-disabled"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website soon</span></span>
+        <span class="research-paper__link-disabled"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></span>
       </p>
     </div>
   </article>
