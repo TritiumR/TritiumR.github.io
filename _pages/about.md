@@ -28,7 +28,7 @@ Research
       <video src="https://tritiumr.github.io/assets/video/pps.mp4" autoplay loop muted playsinline aria-label="Proxy Policy Steering"></video>
     </div>
     <div class="research-paper__content">
-      <h3>Proxy Policy Steering: Inference-Time Adaptation of Robotic Foundation Models</h3>
+      <h3>Proxy Policy Steering</h3>
       <p class="research-paper__venue">CoRL 2026</p>
       <p class="research-paper__authors"><strong>Chuanruo Ning</strong>*, Tianrui Wang*, Wei-Chiu Ma†, Kuan Fang†</p>
       <p class="research-paper__links">
