@@ -119,7 +119,8 @@
     margin: 0;
   }
 
-  .research-paper__figure img {
+  .research-paper__figure img,
+  .research-paper__figure video {
     display: block;
     width: 150px;
     height: 90px;
@@ -211,7 +212,8 @@
       width: 96px;
     }
 
-    .research-paper__figure img {
+    .research-paper__figure img,
+    .research-paper__figure video {
       width: 96px;
       height: 60px;
     }

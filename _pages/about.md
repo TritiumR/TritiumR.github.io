@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- # About Me -->
 
-I'm a second-year CS PhD student at Cornell University working with Prof. [Wei-Chiu Ma](https://www.cs.cornell.edu/~weichiu/) and Prof. [Kuan Fang](https://kuanfang.github.io/).
+I'm a third-year CS PhD student at Cornell University working with Prof. [Wei-Chiu Ma](https://www.cs.cornell.edu/~weichiu/) and Prof. [Kuan Fang](https://kuanfang.github.io/).
 I obtained my bachelor degree from [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm) at Peking University. 
 I'm interested in leveraging 3D information to help robot manipulation. I was fortunate to have worked with Prof. [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Hao Dong](https://zsdonghao.github.io), and Dr. [Kaichun Mo](https://kaichun-mo.github.io).
 
@@ -23,6 +23,20 @@ You can find my CV here: [Chuanruo Ning's CV](https://tritiumr.github.io/assets/
 Research
 ======
 <div class="research-list">
+  <article class="research-paper">
+    <div class="research-paper__figure">
+      <video src="https://tritiumr.github.io/assets/video/pps.mp4" autoplay loop muted playsinline aria-label="Proxy Policy Steering"></video>
+    </div>
+    <div class="research-paper__content">
+      <h3>Proxy Policy Steering: Inference-Time Adaptation of Robotic Foundation Models</h3>
+      <p class="research-paper__venue">CoRL 2026</p>
+      <p class="research-paper__authors"><strong>Chuanruo Ning</strong>*, Tianrui Wang*, Wei-Chiu Ma†, Kuan Fang†</p>
+      <p class="research-paper__links">
+        <a href="https://ppsteering.github.io/"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></a>
+      </p>
+    </div>
+  </article>
+
   <article class="research-paper">
     <div class="research-paper__figure">
       <img src="https://tritiumr.github.io/assets/picture/X-diffusion.png" alt="X-Diffusion overview">
@@ -47,8 +61,7 @@ Research
     <div class="research-paper__content">
       <h3>Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins</h3>
       <p class="research-paper__venue">RSS 2025</p>
-      <p class="research-paper__authors"><strong>Chuanruo Ning</strong>, Kuan Fang <span class="research-paper__author-icon" title="Co-last author" aria-label="Co-last author"><i class="fas fa-user-friends" aria-hidden="true"></i></span>, Wei-Chiu Ma <span class="research-paper__author-icon" title="Co-last author" aria-label="Co-last author"><i class="fas fa-user-friends" aria-hidden="true"></i></span></p>
-      <p class="research-paper__author-note"><span class="research-paper__author-icon" aria-hidden="true"><i class="fas fa-user-friends" aria-hidden="true"></i></span> co-last author</p>
+      <p class="research-paper__authors"><strong>Chuanruo Ning</strong>, Kuan Fang†, Wei-Chiu Ma†</p>
       <p class="research-paper__links">
         <a href="https://prompting-with-the-future.github.io/"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></a>
         <a href="https://github.com/TritiumR/Prompting-with-the-Future"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span></a>
@@ -129,32 +142,3 @@ Research
     </div>
   </article>
 </div>
-
-Talks
-=====
-Title: Part Detection via Render-and-compare Method \
-Date: 2023-8-18 \
-Location: Malone Hall, Johns Hopkins University, Baltimore, United States \
-[Slides](https://tritiumr.github.io/assets/ppt/Part_Detection.pdf)
-
-Title: Occlusion Reasoning for Manipulation \
-Date: 2022-8-4 \
-Location: Center on Frontiers of Computing Studies, Beijing, China \
-[Slides](https://tritiumr.github.io/assets/ppt/Occlusion_Reasoning.pdf)
-
-Title: In-hand Reorientation \
-Date: 2022-2-20 \
-Location: Center on Frontiers of Computing Studies, Beijing, China \
-[Slides](https://tritiumr.github.io/assets/ppt/In-hand_Reorientation.pdf)
-
-# Services
-- Program Committee: Annual AAAI Conference on Artificial Intelligence (AAAI 2024)
-- Reviewer: Conference on Computer Vision and Pattern Recognition (CVPR 2024)
-
-Awards and Honors
-======
-- 2023: Huatai Securities Scholarship
-- 2023: Peking University Merit Student
-- 2022: John Hopcroft Scholarship
-- 2022: Peking University Dean's Scholarship
-- 2020: Peking University Freshman Scholarship
