@@ -144,6 +144,7 @@
   }
 
   .research-paper__venue {
+    font-size: 0.875em; // between the title and the author line
     font-weight: bold;
   }
 
@@ -220,6 +221,10 @@
 
     .research-paper__content h3 {
       font-size: $type-size-6;
+    }
+
+    .research-paper__venue {
+      font-size: 0.72em;
     }
 
     .research-paper__authors,
