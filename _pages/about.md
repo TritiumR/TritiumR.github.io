@@ -30,7 +30,7 @@ Research
     <div class="research-paper__content">
       <h3>Proxy Policy Steering</h3>
       <p class="research-paper__venue">CoRL 2026</p>
-      <p class="research-paper__authors"><strong>Chuanruo Ning</strong>*, Tianrui Wang*, Wei-Chiu Ma†, Kuan Fang†</p>
+      <p class="research-paper__authors"><strong>Chuanruo Ning</strong>*, Tianrui Wang*, Wei-Chiu Ma<sup>†</sup>, Kuan Fang<sup>†</sup></p>
       <p class="research-paper__links">
         <a href="https://ppsteering.github.io/"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></a>
       </p>
@@ -44,7 +44,7 @@ Research
     <div class="research-paper__content">
       <h3>X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations</h3>
       <p class="research-paper__venue">ICRA 2026</p>
-      <p class="research-paper__authors">Maximus A. Pace*, Prithwish Dan*, <strong>Chuanruo Ning</strong>, Atiksh Bhardwaj, Audrey Du, Edward W. Duan, Wei-Chiu Ma†, Kushal Kedia†</p>
+      <p class="research-paper__authors">Maximus A. Pace*, Prithwish Dan*, <strong>Chuanruo Ning</strong>, Atiksh Bhardwaj, Audrey Du, Edward W. Duan, Wei-Chiu Ma<sup>†</sup>, Kushal Kedia<sup>†</sup></p>
       <p class="research-paper__links">
         <a href="https://portal-cornell.github.io/X-Diffusion/X-Diffusion.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>Paper</span></a>
         <a href="https://arxiv.org/abs/2511.04671"><i class="fas fa-file-alt" aria-hidden="true"></i><span>arXiv</span></a>
@@ -61,7 +61,7 @@ Research
     <div class="research-paper__content">
       <h3>Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins</h3>
       <p class="research-paper__venue">RSS 2025</p>
-      <p class="research-paper__authors"><strong>Chuanruo Ning</strong>, Kuan Fang†, Wei-Chiu Ma†</p>
+      <p class="research-paper__authors"><strong>Chuanruo Ning</strong>, Kuan Fang<sup>†</sup>, Wei-Chiu Ma<sup>†</sup></p>
       <p class="research-paper__links">
         <a href="https://prompting-with-the-future.github.io/"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></a>
         <a href="https://github.com/TritiumR/Prompting-with-the-Future"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span></a>
