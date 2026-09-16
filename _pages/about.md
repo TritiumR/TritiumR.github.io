@@ -32,6 +32,7 @@ Research
       <p class="research-paper__venue">CoRL 2026</p>
       <p class="research-paper__authors"><strong>Chuanruo Ning</strong>*, Tianrui Wang*, Wei-Chiu Ma<sup>†</sup>, Kuan Fang<sup>†</sup></p>
       <p class="research-paper__links">
+        <a href="https://arxiv.org/abs/2609.09148"><i class="fas fa-file-alt" aria-hidden="true"></i><span>arXiv</span></a>
         <a href="https://ppsteering.github.io/"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></a>
       </p>
     </div>
@@ -46,7 +47,6 @@ Research
       <p class="research-paper__venue">ICRA 2026</p>
       <p class="research-paper__authors">Maximus A. Pace*, Prithwish Dan*, <strong>Chuanruo Ning</strong>, Atiksh Bhardwaj, Audrey Du, Edward W. Duan, Wei-Chiu Ma<sup>†</sup>, Kushal Kedia<sup>†</sup></p>
       <p class="research-paper__links">
-        <a href="https://portal-cornell.github.io/X-Diffusion/X-Diffusion.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>Paper</span></a>
         <a href="https://arxiv.org/abs/2511.04671"><i class="fas fa-file-alt" aria-hidden="true"></i><span>arXiv</span></a>
         <a href="https://portal-cornell.github.io/X-Diffusion/"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></a>
         <a href="https://github.com/portal-cornell/X-Diffusion"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span></a>
@@ -63,6 +63,7 @@ Research
       <p class="research-paper__venue">RSS 2025</p>
       <p class="research-paper__authors"><strong>Chuanruo Ning</strong>, Kuan Fang<sup>†</sup>, Wei-Chiu Ma<sup>†</sup></p>
       <p class="research-paper__links">
+        <a href="https://arxiv.org/abs/2506.13761"><i class="fas fa-file-alt" aria-hidden="true"></i><span>arXiv</span></a>
         <a href="https://prompting-with-the-future.github.io/"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></a>
         <a href="https://github.com/TritiumR/Prompting-with-the-Future"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span></a>
       </p>
@@ -89,8 +90,7 @@ Research
       <p class="research-paper__venue">RSS 2024</p>
       <p class="research-paper__authors">Yitong Li*, Ruihai Wu*, Haoran Lu, <strong>Chuanruo Ning</strong>, Yan Shen, Guanqi Zhan, Hao Dong</p>
       <p class="research-paper__links">
-        <a href="https://arxiv.org/abs/2406.02283"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>Paper</span></a>
-        <span class="research-paper__link-disabled"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></span>
+        <a href="https://arxiv.org/abs/2406.02283"><i class="fas fa-file-alt" aria-hidden="true"></i><span>arXiv</span></a>
       </p>
     </div>
   </article>
@@ -104,7 +104,7 @@ Research
       <p class="research-paper__venue">NeurIPS 2023</p>
       <p class="research-paper__authors"><strong>Chuanruo Ning</strong>, Ruihai Wu, Haoran Lu, Kaichun Mo, Hao Dong</p>
       <p class="research-paper__links">
-        <a href="https://arxiv.org/abs/2309.07473"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>Paper</span></a>
+        <a href="https://arxiv.org/abs/2309.07473"><i class="fas fa-file-alt" aria-hidden="true"></i><span>arXiv</span></a>
         <a href="https://tritiumr.github.io/Where2Explore/"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></a>
       </p>
     </div>
@@ -119,7 +119,7 @@ Research
       <p class="research-paper__venue">NeurIPS 2023</p>
       <p class="research-paper__authors">Ruihai Wu*, Kai Cheng*, Yan Shen, <strong>Chuanruo Ning</strong>, Guanqi Zhan, Hao Dong</p>
       <p class="research-paper__links">
-        <a href="https://arxiv.org/abs/2309.07510"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>Paper</span></a>
+        <a href="https://arxiv.org/abs/2309.07510"><i class="fas fa-file-alt" aria-hidden="true"></i><span>arXiv</span></a>
         <a href="https://chengkaiacademycity.github.io/EnvAwareAfford/"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></a>
       </p>
     </div>
@@ -134,7 +134,7 @@ Research
       <p class="research-paper__venue">ICCV 2023</p>
       <p class="research-paper__authors">Ruihai Wu*, <strong>Chuanruo Ning</strong>*, Hao Dong</p>
       <p class="research-paper__links">
-        <a href="https://arxiv.org/abs/2303.11057"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>Paper</span></a>
+        <a href="https://arxiv.org/abs/2303.11057"><i class="fas fa-file-alt" aria-hidden="true"></i><span>arXiv</span></a>
         <a href="https://hyperplane-lab.github.io/DeformableAffordance/"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></a>
         <a href="https://www.youtube.com/watch?v=DiZ9aXjK_PU"><i class="fas fa-video" aria-hidden="true"></i><span>Video</span></a>
         <a href="https://www.youtube.com/watch?v=aYneBzwhOGs"><i class="fas fa-video" aria-hidden="true"></i><span>Real-world</span></a>
