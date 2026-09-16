@@ -141,8 +141,6 @@ Research
         <a href="https://arxiv.org/abs/2303.11057"><i class="fas fa-file-alt" aria-hidden="true"></i><span>arXiv</span></a>
         <a href="https://hyperplane-lab.github.io/DeformableAffordance/"><i class="fas fa-external-link-alt" aria-hidden="true"></i><span>Website</span></a>
         <a href="https://github.com/TritiumR/DeformableAffordance"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span></a>
-        <a href="https://www.youtube.com/watch?v=DiZ9aXjK_PU"><i class="fas fa-video" aria-hidden="true"></i><span>Video</span></a>
-        <a href="https://www.youtube.com/watch?v=aYneBzwhOGs"><i class="fas fa-video" aria-hidden="true"></i><span>Real-world</span></a>
       </p>
     </div>
   </article>
