@@ -11,8 +11,9 @@ redirect_from:
 <!-- # About Me -->
 
 I'm a third-year CS PhD student at Cornell University working with Prof. [Wei-Chiu Ma](https://www.cs.cornell.edu/~weichiu/) and Prof. [Kuan Fang](https://kuanfang.github.io/).
-I obtained my bachelor degree from [Turing class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm) at Peking University. 
-I'm interested in leveraging 3D information to help robot manipulation. I was fortunate to have worked with Prof. [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Hao Dong](https://zsdonghao.github.io), and Dr. [Kaichun Mo](https://kaichun-mo.github.io).
+I'm currently interning at NVIDIA, where I work on learning dexterous hand manipulation with foundation models.
+I obtained my bachelor's degree from the [Turing Class](https://cfcs.pku.edu.cn/research/turing_program/introduction1/index.htm) at Peking University.
+I'm interested in leveraging 3D information to advance robot manipulation. I was fortunate to have worked with Prof. [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Hao Dong](https://zsdonghao.github.io), and Dr. [Kaichun Mo](https://kaichun-mo.github.io).
 
 <!-- Previously, I am a research intern at [CCVL](https://ccvl.jhu.edu/team/), supervised by Professor [Alan Yuille](https://www.cs.jhu.edu/~ayuille/). Before that, I was a research intern at Hyperplane Lab, 
 [Center on Frontiers of Computing Studies](https://cfcs.pku.edu.cn/english/), advised by [Prof. Hao Dong](https://zsdonghao.github.io).
